@@ -1,4 +1,4 @@
-# excel_sheet_combiner
+Excel Workbook Sheet Combiner
 
 To run:
   - Download excel_sheet_combine to computer
