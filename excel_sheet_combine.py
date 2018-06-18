@@ -4,9 +4,6 @@ Created on Thu Jun 14 17:49:52 2018
 
 This script will take a list of excel workbook file names and move every 
 sheet in them into a new excel file called 'your_combined_files.xlsx'. 
-If more than one sheet shares the same name across workbooks the script
-will append (n) to the last one inserted.
-EXAMPLE: foo will become foo(2), the next will become foo(3)
 
 This method of moving sheets from mutiple workbooks into one workbook is only
 more useful than Pandas if you require formatting to be kept across workbooks.
